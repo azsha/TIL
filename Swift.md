@@ -1,3 +1,4 @@
+#Swift
 
 ###객체지향 프로그램밍
 클래스를 이용한 대규모 프로젝트에 적합하다.
@@ -84,3 +85,8 @@ Swift에서 많이 사용되는 고차 함수
 * 리듀스 (Reduce) -> 컨테이너 내부의 값을 합쳐주는 역할 -> initial이라는 초기값을 지정해줄 수 있음
 
 ## 모나드
+특정한 값을 담고있는 상자 같은 개념 (예로 옵셔널을 들 수 있다.)
+Optional(2) 에서 Optional() 가 Context 이고 이 상태를 모나드라고 한다.
+
+* 맵 (map) - 옵셔널(context)을 넣으면, 옵셔널(context)로 반환 = optional.none
+* 플랫맵(flatMap) -  옵셔널(context)을 넣으면, 옵셔널(context) 를 까서 반환해 줌 => nil
