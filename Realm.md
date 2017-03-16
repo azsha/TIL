@@ -1,7 +1,7 @@
 # Realm Tour Seoul
 Realm 모바일 데이터베이스 & 플랫폼 개발자 서울모임 참가내용 정리
 
-##Realm
+## Realm
 모바일 데이터 베이스
 Apache 2.0 License
 쓰고 싶고, 동작속도 빠르고, 다양한 기능을 제공하고, 오픈소스이며 무료인
@@ -10,7 +10,7 @@ realm news - 다양한 컨텐츠 제공
 
 
 
-##Ralm 기본, 데모
+## Ralm 기본, 데모
 Live Object - 실시간 최신화
 객체    -    쿼리
  |           |
